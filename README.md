@@ -1,3 +1,7 @@
+# Brad's example of edits
+This is an example of new code added to a file.
+
+
 # thinkful-git-ws
 For Thinkful Detroit's Git &amp; GitHub Workshop
 
